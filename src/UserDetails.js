@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Select from '@material-ui/core/Select';
 import MenuItem from '@material-ui/core/MenuItem';
 import InputLabel from '@material-ui/core/InputLabel';
+import {Link} from 'react-router-dom';
 
 
 class UserDetails extends Component{
@@ -27,7 +28,10 @@ class UserDetails extends Component{
             return 'loading...'
         }
         return (
+            
+
             <div style={{backgroundColor:'#FFFACD'}}>
+                <button style={{backgroundColor:'cyan'}}> <Link to='/users' style={{textDecoration:'none'}}>Go Back</Link> </button> 
 <center><Card variant="outlined" style={{maxWidth:275,backgroundColor:'cyan'}} >
       <CardContent>
         <Typography color="textSecondary" gutterBottom>
