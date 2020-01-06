@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akash-Kumar-cloud/react-routing/static/css/main.7db4b589.chunk.css",
+    "main.js": "/Akash-Kumar-cloud/react-routing/static/js/main.ca45f0ef.chunk.js",
+    "main.js.map": "/Akash-Kumar-cloud/react-routing/static/js/main.ca45f0ef.chunk.js.map",
+    "runtime-main.js": "/Akash-Kumar-cloud/react-routing/static/js/runtime-main.d3cf6172.js",
+    "runtime-main.js.map": "/Akash-Kumar-cloud/react-routing/static/js/runtime-main.d3cf6172.js.map",
+    "static/js/2.ea01203e.chunk.js": "/Akash-Kumar-cloud/react-routing/static/js/2.ea01203e.chunk.js",
+    "static/js/2.ea01203e.chunk.js.map": "/Akash-Kumar-cloud/react-routing/static/js/2.ea01203e.chunk.js.map",
+    "index.html": "/Akash-Kumar-cloud/react-routing/index.html",
+    "precache-manifest.7648eb5a2dbe0605517a9ed1cdacace4.js": "/Akash-Kumar-cloud/react-routing/precache-manifest.7648eb5a2dbe0605517a9ed1cdacace4.js",
+    "service-worker.js": "/Akash-Kumar-cloud/react-routing/service-worker.js",
+    "static/css/main.7db4b589.chunk.css.map": "/Akash-Kumar-cloud/react-routing/static/css/main.7db4b589.chunk.css.map",
+    "static/js/2.ea01203e.chunk.js.LICENSE": "/Akash-Kumar-cloud/react-routing/static/js/2.ea01203e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3cf6172.js",
+    "static/js/2.ea01203e.chunk.js",
+    "static/css/main.7db4b589.chunk.css",
+    "static/js/main.ca45f0ef.chunk.js"
+  ]
+}
